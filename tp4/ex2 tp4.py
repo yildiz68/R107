@@ -3,7 +3,7 @@ ecart = []
 somme = 0
 nombre = int(input("donnez le nombre d'étudiant"))
 for i in range(nombre):
-    note = int(input("saisissez la note de l'élève"))
+    note = float(input("saisissez la note de l'élève"))
     l.append(note)
     somme = somme + l[i]
 moy = somme/nombre
