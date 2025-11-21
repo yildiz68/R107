@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0840281a-12e4-4387-b675-45850832e91a" name="Changes" comment="exo tp4 ex 2 et 3">
+      <change afterPath="$PROJECT_DIR$/entrainement, python/ex1.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="SET_USER_NAME_GLOBALLY" value="false" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;yildiz68&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/yildiz68/R107.git&quot;,
+    &quot;accountId&quot;: &quot;708e7f84-cbc5-4f09-8ee3-8375d71527dd&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="35TQrGZs7HnlvQN86sAxM0URCiF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.ex1 c.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex1 d.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex2 tp4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex3 tp4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ex3.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-f69e5c277ee4-cbfc7b97e6b2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-252.27397.106" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0840281a-12e4-4387-b675-45850832e91a" name="Changes" comment="" />
+      <created>1763131780193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1763131780193</updated>
+    </task>
+    <task id="LOCAL-00001" summary="exo tp3">
+      <option name="closed" value="true" />
+      <created>1763135540806</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1763135540806</updated>
+    </task>
+    <task id="LOCAL-00002" summary="exo tp4 ex 1">
+      <option name="closed" value="true" />
+      <created>1763562224545</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1763562224545</updated>
+    </task>
+    <task id="LOCAL-00003" summary="exo tp4 ex 2 et 3">
+      <option name="closed" value="true" />
+      <created>1763567606919</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1763567606919</updated>
+    </task>
+    <task id="LOCAL-00004" summary="exo tp4 ex 2 et 3">
+      <option name="closed" value="true" />
+      <created>1763713742998</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1763713742998</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="exo tp3" />
+    <MESSAGE value="exo tp4 ex 1" />
+    <MESSAGE value="exo tp4 ex 2 et 3" />
+    <option name="LAST_COMMIT_MESSAGE" value="exo tp4 ex 2 et 3" />
+  </component>
+</project>
