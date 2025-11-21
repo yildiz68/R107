@@ -1,6 +1,6 @@
 N = int(input("choisissez la valeur de N pas 0 :"))
 nombre = 0
-somme = 3
+somme = 0
 while N > nombre :
     somme = somme + nombre
     nombre = nombre + 1
